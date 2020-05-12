@@ -1,0 +1,26 @@
+{
+  "name": "import_db_from_csv_and_api",
+  "version": "1.0.0",
+  "description": "Read CSV, Get Data from API using fields from CSV, Parse Data from API, Write Parsed data into MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klikz-US/Node.js-Database-Import-Module-from-CSV-and-API.git"
+  },
+  "keywords": [
+    "Import",
+    "Database",
+    "Read",
+    "CSV",
+    "API"
+  ],
+  "author": "Murrell Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klikz-US/Node.js-Database-Import-Module-from-CSV-and-API/issues"
+  },
+  "homepage": "https://github.com/Klikz-US/Node.js-Database-Import-Module-from-CSV-and-API#readme"
+}
